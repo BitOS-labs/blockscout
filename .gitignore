@@ -43,4 +43,8 @@ screenshots/
 # mix phx.gen.cert self-signed certs for dev
 /apps/block_scout_web/priv/cert
 
-.idea
+/docker-compose/postgres-data
+/docker-compose/tmp
+
+.idea/
+*.iml
